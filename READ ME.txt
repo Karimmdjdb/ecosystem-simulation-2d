@@ -1,0 +1,9 @@
+- Pour lancer le programme il suffit d'éxecuter le fichier main.py, il faudra avoir au préalable les bibliothéques tkinter, pygame et matplotlib installées sur votre machine.
+
+- Il est préferable de commencer par la section HELP de la page d'accueil pour mieux comprendre comment utiliser le programme.
+
+- Le programme fonctionne sous Windows et Linux, cependant pour une meilleure expérience il sera préferable de l'éxecuter sous Windows (quelques bugs d'affichage sous linux).
+
+- Python n'étant pas un langage trés optimisé pour les programmes gourmands, je vous invite à ne pas abuser sur le nombre d'animaux dans la simulation (au risque d'avoir quelques lags et ralentissements du programme).
+
+@Karim
